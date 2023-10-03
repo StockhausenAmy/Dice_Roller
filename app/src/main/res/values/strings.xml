@@ -1,4 +1,16 @@
 <resources>
-    <string name="app_name">Dice Roller</string>
-    <string name="roll">Roll</string>
+    <string name="app_name">Vending Machine Oracle</string>
+    <string name="roll">Choose my snack!</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="a">A</string>
+    <string name="b">B</string>
+    <string name="c">C</string>
+    <string name="d">D</string>
+    <string name="e">E</string>
+    <string name="f">F</string>
 </resources>
